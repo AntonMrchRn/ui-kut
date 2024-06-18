@@ -41,14 +41,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AntonMrchRn/ui-kit/"
+    "url": "git+https://github.com/AntonMrchRn/ui-kut"
   },
   "author": "Антон Марченко <anton.mrch1998@gmail.com> (https://github.com/AntonMrchRn)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AntonMrchRn/ui-kit/issues"
+    "url": "https://github.com/AntonMrchRn/ui-kut/issues"
   },
-  "homepage": "https://github.com/AntonMrchRn/ui-kit#readme",
+  "homepage": "https://github.com/AntonMrchRn/ui-kut#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
