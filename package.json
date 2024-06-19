@@ -41,7 +41,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AntonMrchRn/ui-kut"
+    "url": "https://github.com/AntonMrchRn/ui-kut"
   },
   "author": "Антон Марченко <anton.mrch1998@gmail.com> (https://github.com/AntonMrchRn)",
   "license": "MIT",
